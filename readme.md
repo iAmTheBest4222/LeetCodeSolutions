@@ -2,6 +2,5 @@
 ### `leethub` Extension
 
 ``` md
-leethub extension will submit the code to LeetCode and update to github repo 
-Automaticaly
+using brute force solution 
 ```
