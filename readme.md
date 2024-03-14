@@ -1,4 +1,5 @@
-### Solution For LeetCode Problems
+# Solution For LeetCode Problems 
+### `leethub` Extension
 
 ``` md
 using brute force solution 
