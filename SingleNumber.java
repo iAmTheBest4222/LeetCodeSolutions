@@ -5,5 +5,6 @@ class Solution {
             result = result ^ nums[i];
         }
         return result;
+
     }
 }
